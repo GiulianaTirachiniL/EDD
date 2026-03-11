@@ -1,0 +1,10 @@
+Magemite 0 entered MageZone 1 with ATK 4 and Speed 74
+Magemite 1 entered MageZone 0 with ATK 4 and Speed 60
+Magemite 2 entered MageZone 2 with ATK 3 and Speed 34
+Magemite 3 entered MageZone 1 with ATK 5 and Speed 115
+Magemite 4 entered MageZone 0 with ATK 5 and Speed 91
+Magemite 5 entered MageZone 2 with ATK 4 and Speed 66
+Magemite 6 entered MageZone 2 with ATK 5 and Speed 16
+Magemite 7 entered MageZone 2 with ATK 2 and Speed 26
+Magemite 8 entered MageZone 2 with ATK 1 and Speed 42
+Magemite 9 entered MageZone 2 with ATK 2 and Speed 111
