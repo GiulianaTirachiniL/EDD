@@ -1,4 +1,4 @@
-/* #include <stdio.h>
+#include <stdio.h>
 
 typedef struct magemite{
     int magemite_id; 
@@ -14,4 +14,3 @@ typedef struct magezone{
 } MageZone;
 
 void Enter(int magezone_id, int magemite_id, int atk, int speed);
- */

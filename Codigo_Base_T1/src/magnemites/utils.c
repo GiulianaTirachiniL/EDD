@@ -1,4 +1,4 @@
-/* #include <stdio.h>
+#include <stdio.h>
 #include "utils.h"
 
 void Enter(int magezone_id, int magemite_id, int atk, int speed) {
@@ -7,5 +7,5 @@ void Enter(int magezone_id, int magemite_id, int atk, int speed) {
     new_magemite->atk = atk;    
     new_magemite->speed = speed;
 
-    // new_magemite->next = ;
-} */
+    printf("Magnemite %d ingreso a la manada %d.\n", magemite_id, magezone_id);
+} 
